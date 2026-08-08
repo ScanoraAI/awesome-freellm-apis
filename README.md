@@ -307,6 +307,9 @@ Providers that periodically renew free credits.
 | <a href="https://ollama.com" target="_blank" rel="noopener">Ollama</a> | CLI + API | 100+ models, GPU acceleration, OpenAI-compatible endpoint |
 | <a href="https://lmstudio.ai" target="_blank" rel="noopener">LM Studio</a> | Desktop GUI | Any GGUF model, built-in model browser, offline |
 | <a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noopener">llama.cpp</a> | C/C++ engine | Runs any GGUF, minimal dependencies |
+| <a href="https://github.com/ScanoraAI/free-llm-transformersjs" target="_blank" rel="noopener">free-llm-transformersjs</a> | Node.js + WASM | Self-hosted OpenAI-compatible API on cPanel using Transformers.js |
+| <a href="https://github.com/ScanoraAI/free-llm-llamacpp" target="_blank" rel="noopener">free-llm-llamacpp</a> | Node.js + WASM | Self-hosted LLM API via llama.cpp WASM bindings, OpenAI-compatible |
+| <a href="https://github.com/ScanoraAI/free-llm-ollama-proxy" target="_blank" rel="noopener">free-llm-ollama-proxy</a> | Node.js proxy | OpenAI-compatible proxy for Ollama on cPanel/shared hosting |
 | <a href="https://gpt4all.io" target="_blank" rel="noopener">GPT4All</a> | Desktop app | CPU-only, no GPU required, open source |
 | <a href="https://jan.ai" target="_blank" rel="noopener">Jan.ai</a> | Desktop app | Privacy-focused, 100% offline ChatGPT alternative |
 | <a href="https://github.com/LostRuins/koboldcpp" target="_blank" rel="noopener">KoboldCpp</a> | Single executable | Optimized for creative writing, GGUF |
